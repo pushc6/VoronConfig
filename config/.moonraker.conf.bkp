@@ -25,14 +25,14 @@ enable_auto_refresh = True
 
 [history]
 
-[update_manager client mainsail]
+[update_manager mainsail]
 type = web
-repo = meteyou/mainsail
+repo = mainsail-crew/mainsail
 path = ~/mainsail
 
 [update_manager client fluidd]
 type = web
-repo = cadriel/fluidd
+repo = fluidd-core/fluidd
 path = ~/fluidd
 
 [update_manager client KlipperScreen]
